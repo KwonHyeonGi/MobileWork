@@ -3,7 +3,7 @@
 * 이력서 홈페이지
 # https://KwonHyeonGi.github.io/
 * 회사소개
-# httpS://bandia.github.io
+# https://bandia.github.io
 
 * 자기소개 홈페이지
 
