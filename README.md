@@ -5,5 +5,5 @@
 * 회사소개
 # https://bandia.github.io/
 * 자기소개 홈페이지
-
+# https://info.github.io/
 # 차례대로 갈 예정입니다.
