@@ -54,9 +54,9 @@
 
 # 실행 파일
 * 이력서 홈페이지
-# https://KwonHyeonGi.github.io/
+# https://KwonHyeonGi.github.io/resume
 * 회사소개
-# https://bandia.github.io/
+# https://KwonHyeonGi.github.io/bandai
 * 자기소개 홈페이지
-# https://info.github.io/
+# https://KwonHyeonGi.github.io/info
 # 차례대로 갈 예정입니다.
