@@ -54,8 +54,8 @@
 
 # 실행 파일
 * 이력서 홈페이지
-# https://KwonHyeonGi.github.io/
+# https://github.com/KwonHyeonGi/kwonHyeonGi.github.io
 * 회사소개
-# https://Bandai.github.io/
+# https://github.com/KwonHyeonGi/Bandai.github.io
 * 자기소개 홈페이지
-# https://KwonHyeonGi.github.io/
+# https://github.com/KwonHyeonGi/KwonHyeonGi.github.io-info
