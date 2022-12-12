@@ -56,7 +56,7 @@
 * 이력서 홈페이지
 # https://KwonHyeonGi.github.io/
 * 회사소개
-# https://kwonHyeonGi.github.io-resume
+# https://kwonHyeonGi.github.io/info/
 * 자기소개 홈페이지
 # https://KwonHyeonGi.github.io/
 # 차례대로 갈 예정입니다.
