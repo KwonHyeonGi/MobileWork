@@ -5,6 +5,15 @@
  JAVA_HOME = C:\HybirdApp\jdk1.8XX  
  ANDROID_SDK_ROOT = C:\Users(사용자명)\AppData\Local\Android\SDK or android-sdk  
  GRADLE_HOME = C:\gradle7.3_bin
+ * 환경변수 path :  
+ %JAVA_HOME%\bin
+ %ANDROID_SDK_ROOT%\tools
+ %ANDROID_SDK_ROOT%\platform-tools
+ %ANDROID_SDK_ROOT%\build-tools
+ %ANDROID_SDK_ROOT%\cmdline-tools\latest\bin
+ %ANDROID_SDK_ROOT\emulator
+ %GRADLE_HOME%\bin
+ c:\HybridApp\apace-ant-1.9.16\bin
  
 # 실행 파일
 * 이력서 홈페이지
