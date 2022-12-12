@@ -17,7 +17,7 @@
  %GRADLE_HOME%\bin  
  c:\HybridApp\apace-ant-1.9.16\bin  
  
- * **cordova 및 phonegap, npm업데이트(cmd를 통한 방법)**
+ * **cordova 및 phonegap, npm업데이트(cmd를 통한 방법)**  
  npm/ node -version으로 버전 확인  
  npm update -g  
  npm install -g phonegap 로 설치  
