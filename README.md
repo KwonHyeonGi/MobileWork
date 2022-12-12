@@ -59,4 +59,3 @@
 # https://Bandai.github.io/
 * 자기소개 홈페이지
 # https://KwonHyeonGi.github.io/
-# 차례대로 갈 예정입니다.
